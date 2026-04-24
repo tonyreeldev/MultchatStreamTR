@@ -179,3 +179,7 @@ Multichat Ultra Final/
 This project is open source. If you use it, please give credit to the original developer.
 
 **Thank you for using Multichat Ultra Final!** 🎉
+
+If you can, buy me a coffee
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://paypal.me/yaba09)
