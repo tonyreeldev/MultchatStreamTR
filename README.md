@@ -4,6 +4,8 @@
 
 **Multichat Ultra Final** is a desktop application developed in Python that allows streamers to unify the chats from **Twitch, YouTube, TikTok, and Kick** into a single web interface, ideal for use as a **Browser Source in OBS Studio**.
 
+<img width="1916" height="973" alt="SCR-20260424-pnkt" src="https://github.com/user-attachments/assets/f2746faf-28c9-4988-a836-66bf20a6afe6" />
+
 ---
 
 ## 🎯 What does the application do?
@@ -37,6 +39,8 @@
 - Separate queues per platform (Twitch, YouTube, TikTok, Kick)
 - **Round-robin** algorithm that prevents a very active platform from flooding the chat
 - All messages are displayed equitably
+
+<img width="1239" height="764" alt="SCR-20260424-pnpe" src="https://github.com/user-attachments/assets/50995ed7-796d-4392-b67a-65edddbe856c" />
 
 ---
 
